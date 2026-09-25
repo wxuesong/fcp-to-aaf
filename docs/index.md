@@ -1,9 +1,9 @@
 ---
 layout: default
-title: FCP to AAF
+title: Final AAF
 ---
 
-# FCP to AAF
+# Final AAF
 
 Convert Final Cut Pro projects into AAF audio handoffs for dialogue, music, and sound mixing. All processing stays on your Mac.
 
@@ -25,4 +25,4 @@ For help, bug reports, or feature requests, visit the [support page]({{ '/suppor
 
 Read the [Privacy Policy]({{ '/privacy/' | relative_url }}).
 
-FCP to AAF is independently developed and is not affiliated with or endorsed by Apple Inc. Final Cut Pro is a trademark of Apple Inc.
+Final AAF is independently developed and is not affiliated with or endorsed by Apple Inc. Final Cut Pro is a trademark of Apple Inc.

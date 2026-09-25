@@ -1,17 +1,17 @@
 ---
 layout: default
-title: FCP to AAF Support
+title: Final AAF Support
 permalink: /support/
 ---
 
-# FCP to AAF Support
+# Final AAF Support
 
-FCP to AAF converts Final Cut Pro XML projects into AAF audio handoffs on your Mac.
+Final AAF converts Final Cut Pro XML projects into AAF audio handoffs on your Mac.
 
 ## Getting started
 
 1. Export an FCPXML file or project bundle from Final Cut Pro.
-2. Open it in FCP to AAF and grant access to the source media folders when prompted.
+2. Open it in Final AAF and grant access to the source media folders when prompted.
 3. Select audio roles, export settings, and a handoff location.
 4. Check the project and export the AAF.
 5. Import it in your receiving application and verify media links, channels, and sync.
@@ -42,4 +42,4 @@ Please [open an issue on GitHub](https://github.com/wxuesong/fcp-to-aaf/issues) 
 
 Include your macOS version, app version, receiving application, export settings, and steps to reproduce. A GitHub account is required to post. Issues are public: do not include confidential media, credentials, or private project details. Redact file paths before sharing logs.
 
-Read the [Privacy Policy]({{ '/privacy/' | relative_url }}) to learn how FCP to AAF handles data.
+Read the [Privacy Policy]({{ '/privacy/' | relative_url }}) to learn how Final AAF handles data.

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: FCP to AAF Privacy Policy
+title: Final AAF Privacy Policy
 permalink: /privacy/
 ---
 
-# FCP to AAF Privacy Policy
+# Final AAF Privacy Policy
 
 **Effective date:** September 20, 2026
 
 ## Local processing
 
-FCP to AAF processes projects and audio locally on your Mac. It does not require an account, upload your projects or media, or include advertising, analytics, or tracking services. We do not collect data from the app or sell personal information.
+Final AAF processes projects and audio locally on your Mac. It does not require an account, upload your projects or media, or include advertising, analytics, or tracking services. We do not collect data from the app or sell personal information.
 
 ## Files and preferences
 
